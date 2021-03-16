@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_simple_margin">50dp</dimen>
+    <dimen name="text_simple_size">60sp</dimen>
+    <dimen name="text_subtitle_size">100sp</dimen>
+
+
+
+    <dimen name="icon_size">200dp</dimen>
+</resources>

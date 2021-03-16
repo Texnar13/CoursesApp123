@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="my_number">10</integer>
+
+    <dimen name="activity_simple_margin">25dp</dimen>
+    <dimen name="text_simple_size">30sp</dimen>
+    <dimen name="text_subtitle_size">50sp</dimen>
+
+
+    <dimen name="icon_size">100dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

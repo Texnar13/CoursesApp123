@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+
+        android:id="@+id/activity_main_menu_title"
+        android:orderInCategory="2"
+        android:title="12"
+        android:icon="@drawable/ic_launcher_background"
+        app:showAsAction="collapseActionView|withText|always" />
+    <item
+        android:id="@+id/activity_main_menu_app"
+        android:icon="@drawable/my_icon2"
+        android:orderInCategory="1"
+        android:title="@string/app_name" />
+    <item
+        android:id="@+id/activity_main_menu_settings"
+        android:checkable="true"
+        android:checked="true"
+        android:orderInCategory="3"
+        android:title="Настройки" />
+</menu>
